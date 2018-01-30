@@ -1,0 +1,7 @@
+pid
+db
+security
+history.sqlite
+*~
+*.swp
+*.pyc
